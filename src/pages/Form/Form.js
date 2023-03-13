@@ -1,6 +1,5 @@
 import { Box, Button, TextField } from '@mui/material';
 import { Formik } from 'formik';
-import * as yup from 'yup';
 import { userSchema } from '../../utils/schema/userSchema';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import Header from '../../components/Header';
